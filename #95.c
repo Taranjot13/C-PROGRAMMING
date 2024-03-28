@@ -21,5 +21,6 @@ int main()
 		printf("\n\n%d is present in the data %d times.", a, count);
 	else
 		printf("\n\n%d is not present in the data.", a);
+	
 	return 0;
 }

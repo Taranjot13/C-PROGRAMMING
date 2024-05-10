@@ -1,4 +1,4 @@
-// C program to enter elements in a 2D-array and print thr array.
+// C program to enter elements in a 2D-array and print the array.
 
 #include <stdio.h>
 int main(){
